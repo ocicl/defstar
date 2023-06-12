@@ -1,0 +1,10 @@
+* defstar
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://bitbucket.org/eeeickythump/defstar.git   |
+| commit  |   |
+| systems | defstar |
+|---------+-------------------------------------------|
+
