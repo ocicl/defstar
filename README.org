@@ -1,10 +1,10 @@
 * defstar
 
+Common lisp macros for easy type declaration within definitions of
+functions and variables.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://bitbucket.org/eeeickythump/defstar.git   |
-| commit  |   |
-| systems | defstar |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------|
+| source  | git:https://bitbucket.org/eeeickythump/defstar.git |
+| commit  | 132829d                                            |
+| systems | defstar                                            |
+|---------+----------------------------------------------------|
